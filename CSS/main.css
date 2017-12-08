@@ -1,0 +1,28 @@
+
+body {
+    background-color: #f2f2f2;
+}
+
+div.p01 {
+    position: fixed;
+    top: 10px;
+    left: 10px;
+}
+
+div.p02 {
+    position: fixed;
+    top: 10px;
+    left: 195px;
+}
+
+div.p03 {
+    position: fixed;
+    top: 44px;
+    left: 10px;
+}
+
+div.p04 {
+    position: fixed;
+    top: 44px;
+    left: 256px;
+}
